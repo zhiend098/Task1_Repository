@@ -4,3 +4,6 @@ Carrots
 Bananas
 Apples
 
+Cellphone
+Laptop
+Wifi
