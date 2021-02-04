@@ -4,8 +4,3 @@ Carrots
 Bananas
 Apples
 
-
-Gadgets:
-
-Phones
-Laptops
