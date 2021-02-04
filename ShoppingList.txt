@@ -3,3 +3,9 @@ Shopping List:
 Carrots
 Bananas
 Apples
+
+
+Gadgets:
+
+Phones
+Laptops
