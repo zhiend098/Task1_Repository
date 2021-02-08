@@ -7,3 +7,8 @@ Apples
 Cellphone
 Laptop
 Wifi
+
+Spaghetti
+Salad
+Somai
+Ice Cream
