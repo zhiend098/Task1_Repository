@@ -4,3 +4,7 @@ Carrots
 Bananas
 Apples
 
+Laptops
+Cellphones
+Modems
+Routers
